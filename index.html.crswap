@@ -10,16 +10,16 @@
 
 <body>
     <div>Cabeçalho 
-        <a href="./index.html">Home</a>
+        <a href=".">perfil</a>
         <a href="./profile.html" target="_blank">Perfil</a>
         <a href="./photo.html" target="_blank">Fotos</a>
 
 
     </div>
     
-    <div>Corpo 3</div>
+    <div>Corpo</div>
     
-    <div>Rodapé 1</div>
+    <div>Rodapé</div>
 
 </body>
 </html>
